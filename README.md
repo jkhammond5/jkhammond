@@ -31,7 +31,6 @@
 
 ## 🛠 Tech Stack
 
-html
 Languages:      Python | Bash | JavaScript | HTML/CSS | SQL
 Back-End:       Node.js | Express | REST APIs | Nginx
 Databases:      MySQL | MongoDB
