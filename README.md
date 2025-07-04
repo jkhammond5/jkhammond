@@ -1,4 +1,4 @@
-# jkhammond
+# jeremy's code
 
 ## ✅ GitHub Profile README Template (Markdown with HTML Styling)
 
